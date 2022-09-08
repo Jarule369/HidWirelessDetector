@@ -1,0 +1,3 @@
+[submodule "HidWirelessDetector"]
+	path = HidWirelessDetector
+	url = git@github.com:Jarule369/HidWirelessDetector
